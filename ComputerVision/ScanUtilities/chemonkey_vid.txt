@@ -1,1 +1,0 @@
-device `v4l:/dev/video0' is a Noname Built-in iSight virtual device
